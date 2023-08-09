@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'repo',
+    name: 'group',
     aliases: ['script'],
     category: 'general',
     exp: 100,
