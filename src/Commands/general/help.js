@@ -62,7 +62,7 @@ module.exports = {
 
 👋 *Hi @${M.sender.split('@')[0]}* 🍃!
 
-*This is Ayush MD V3*
+👀 *This is Ayush MD V3*
 
 This help menu is designed to help you get started with the bot.`
             base += '\n\n ⟾ *📪Command list📪*'
