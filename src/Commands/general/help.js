@@ -62,9 +62,6 @@ module.exports = {
 
 👋 *Hi @${M.sender.split('@')[0]}* 🍃!
 
-🎋 *Support us by following us on instagram:*
-https://www.instagram.com/das_abae
-
 This help menu is designed to help you get started with the bot.`
             base += '\n\n ⟾ *📪Command list📪*'
             const keys = Object.keys(obj)
@@ -79,7 +76,7 @@ This help menu is designed to help you get started with the bot.`
 *➪ Use ${client.prefix}help <command name> from help the list to see its description and usage*
 *➪ Eg: ${client.prefix}help profile*
 *➪ <> means required and [ ] means optional, don't include <> or [ ] when using command.*`
-            const url = 'https://i.pinimg.com/564x/3b/d8/bb/3bd8bb87812f4af49d6a52b7a2394c6d.jpg'
+            const url = 'https://i.imgur.com/xswzyzh.jpeg'
             const buffer = await client.utils.getBuffer(url)
             await client.sendMessage(
                 M.from,
